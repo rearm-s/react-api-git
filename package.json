@@ -1,6 +1,7 @@
 {
   "name": "react-api-git",
   "version": "1.0.0",
+  "homepage": "https://rearm-s.github.io/react-api-git/",
   "description": "",
   "main": "index.js",
   "scripts": {
