@@ -1,0 +1,16 @@
+npm install -D webpack webpack-cli 
+npm install -D style-loader less-loader css-loader file-loader
+npm install -D html-webpack-plugin clean-webpack-plugin
+webpack / npm run dev
+npm install -D webpack-dev-server
+npm i -D less
+npm run dev
+npm start
+npm install --save-dev babel-loader @babel/core
+npm install @babel/preset-env --save-dev
+npm install --save-dev @babel/preset-react
+npm install --save @babel/polyfill
+npm i --save react react-dom
+npm i --save redux react-redux redux-thunk
+npm install --save redux-devtools-extension
+npm i --save react-router-dom axios
